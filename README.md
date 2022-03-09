@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Billygoat201
+- 👋 Hi, I’m @pluto2222
 - 👀 I’m interested in learning about projects and showing projects that i have worked on.
 - 🌱 I’m currently learning html/css and javascript.
 - 💞️ I’m looking to collaborate on whatever im interested in.
